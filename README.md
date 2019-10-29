@@ -69,3 +69,11 @@ Contoh multiple choice:
 - [x] Sudah mandi
 - [ ] Sudah makan
 - [ ] sudah tidur
+
+Contoh tabel 2 kolom:
+
+| Nama    | Alamat    |
+| ------- | --------- |
+| Sarah   | Tangerang |
+| Budi    | Jakarta   |
+| Khrisna | Malang    |
